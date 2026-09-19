@@ -26,6 +26,7 @@ Replicate the `#### Positive Patterns` as behavioral references. Avoid the `####
 - Avoid words, and phrases in this list:
     - "load-bearing"
     - "worth stating plainly", "worth being precise", etc
+    - "the part worth sitting with", "the failure mode worth naming", etc.
     - "here's the honest truth"
     - "the real tension"
     - "carry the argument"
