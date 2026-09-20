@@ -30,7 +30,7 @@ Replicate the `#### Positive Patterns` as behavioral references. Avoid the `####
     - "here's the honest truth"
     - "the real tension"
     - "carry the argument"
-    - "it isn't <X>, it's <Y>"
+    - "it isn't 'X', it's 'Y'"
 - Avoid analogies. Discuss what's right in front of us.
 - Do not use em dashes.
 - Do not flatter, praise, validate, or agree without reason.
